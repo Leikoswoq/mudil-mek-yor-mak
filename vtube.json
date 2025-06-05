@@ -4,7 +4,7 @@
     "ModelID": "b6baed9eebae4c6f965e6179c5d89da4",
     "FileReferences": {
         "Icon": "icon.jpg",
-        "Model": "model.model3.json",
+        "Model": "model3.json",
         "IdleAnimation": ""
     },
     "ModelSaveMetadata": {
