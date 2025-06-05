@@ -1,10 +1,10 @@
 {
     "Version": 1,
-    "Name": "verona vtuber (1)",
+    "Name": "model",
     "ModelID": "b6baed9eebae4c6f965e6179c5d89da4",
     "FileReferences": {
         "Icon": "icon.jpg",
-        "Model": "verona vtuber (1).model3.json",
+        "Model": "model.model3.json",
         "IdleAnimation": ""
     },
     "ModelSaveMetadata": {
